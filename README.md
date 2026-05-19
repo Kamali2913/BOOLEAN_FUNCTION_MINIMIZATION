@@ -37,11 +37,11 @@ Developed by: Kamali R
 **Output:**
 **RTL realization**
 
-![alt text](<../Screenshot 2026-05-18 193458.png>)
+![alt text](<Screenshot 2026-05-18 193458.png>)
 
 **RTL**
 
-![alt text](<../Screenshot 2026-05-18 193811.png>)
+![alt text](<Screenshot 2026-05-18 193811.png>)
 
 **Result:**
 
